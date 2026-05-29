@@ -17,6 +17,9 @@ frontend/dist/
 .vscode/
 .idea/
 
+# Project docs (not tracked)
+docs/
+
 # WorkBuddy & CodeBuddy local data
 .workbuddy/
 .codebuddy/
